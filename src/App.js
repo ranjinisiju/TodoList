@@ -21,7 +21,6 @@ const App = () => {
         setItem(''); 
     };
 
-
     const handleChange = event => {
         setItem(event.target.value);
     }
